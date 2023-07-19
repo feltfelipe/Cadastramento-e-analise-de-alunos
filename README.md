@@ -13,4 +13,3 @@ Um programa simplçes com uso prático para nossos queridos professores afim de 
 - Após isso comece a escrever suas primeiras linhas de código e teste sempre;
 - Seja adepto de um código limpo e organizado;
 - Escreva tudo como uma documentação para futuras buscas. Isso pode salvar você e ajudar outros programadores a destravarem em seus problemas.
-
